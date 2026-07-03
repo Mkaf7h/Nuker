@@ -4,10 +4,9 @@
 
 ## Preview
 
-ضع الصور هنا:
+![Login](https://i.imgur.com/xMb2XW9.png)
 
-![Login](https://imgur.com/a/xUEpLEQ)
-![Dashboard]([images/dashboard.png](https://i.imgur.com/xMb2XW9.png))
+[More Screenshots](https://imgur.com/a/xUEpLEQ)
 
 ---
 
@@ -17,16 +16,6 @@
 Username: mkaf7h
 Password: 123
 ```
-
----
-
-## Features
-
-- Modern Dashboard UI
-- Authentication System
-- Discord RPC Integration
-- Modular Architecture
-- Educational Security Testing Environment
 
 ---
 
@@ -45,27 +34,6 @@ You are solely responsible for how you use this software. By using this project,
 - The author assumes no responsibility for any damages, data loss, account actions, or legal consequences resulting from the use or misuse of this software.
 
 Use responsibly and ethically.
-
----
-
-## Installation
-
-```bash
-git clone https://github.com/yourname/NUKERSEC.git
-cd NUKERSEC
-```
-
-Build using:
-
-```bash
-dotnet build
-```
-
-Run:
-
-```bash
-dotnet run
-```
 
 ---
 
