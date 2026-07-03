@@ -6,8 +6,8 @@
 
 ضع الصور هنا:
 
-![Login](images/login.png)
-![Dashboard](images/dashboard.png)
+![Login](https://imgur.com/a/xUEpLEQ)
+![Dashboard]([images/dashboard.png](https://i.imgur.com/xMb2XW9.png))
 
 ---
 
